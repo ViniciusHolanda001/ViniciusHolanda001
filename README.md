@@ -2,7 +2,6 @@
 <h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
 
 <br>
-  <a href="https://www.uninove.br/">
   <img align="right" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
   <p> I'm currently working at Nove de Julho University - UNINOVE </p>
 </br>

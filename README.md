@@ -12,7 +12,6 @@
 I'm currently working at Nove de Julho University - UNINOVE
 
 
-# Vinicius Holanda Cavalcante
 <h2 align="center"> Data Science Analyst and Python developer.</h2>
 
 <div align="center">

@@ -1,5 +1,15 @@
-Hi, I’m Vinicius Holanda Cavalcante 
-@ViniciusHolanda001
+
+<h2> Hi, I’m Vinicius Holanda Cavalcante </h2>
+<h5> Data Science Analyst </h5>
+
+
+<div align="center">
+  <a href="https://github.com/viniciusholanda001">
+  <img height="180em" src="https://www.uninove.br/logo-uninove.svg"/>
+</div>
+
+
+# @ViniciusHolanda001
 
 I'm a research assistant at Nove de Julho University - UNINOVE
 São Paulo - Brazil

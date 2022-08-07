@@ -1,12 +1,10 @@
 
-<h2> Hi, I’m Vinicius Holanda Cavalcante </h2>
-<h5> Data Science Analyst </h5>
+<h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
+<h5 align="center"> Data Science Analyst</h5>
 
 
-<div align="center">
-  <a href="https://github.com/viniciusholanda001">
-  <img height="180em" src="https://www.uninove.br/logo-uninove.svg"/>
-</div>
+<a href="https://github.com/viniciusholanda001">
+<img align="right" height="180em" width="30px" alt="I'm currently working at Nove de Julho University" src="https://www.uninove.br/logo-uninove.svg"/>
 
 
 # @ViniciusHolanda001

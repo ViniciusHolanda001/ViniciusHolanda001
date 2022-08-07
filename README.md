@@ -3,7 +3,7 @@
 
 <br>
   <a href="https://www.uninove.br/">
-  <img align="right" height="180em" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
+  <img align="right" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
 </br>
 
 I'm currently working at Nove de Julho University - UNINOVE

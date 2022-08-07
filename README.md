@@ -1,12 +1,13 @@
 
 <h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
 
-<div>
-  <a href="https://www.uninove.br/">
-  <img align="right" height="180em" width="150px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
-</div>
-
-<h5 align="center"> Data Science Analyst</h5>
+<body>
+  <div>
+    <h5 align="center"> Data Science Analyst</h5>
+    <a href="https://www.uninove.br/">
+    <img align="right" height="180em" width="150px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
+  </div>
+</body>
 
 
 # @ViniciusHolanda001

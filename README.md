@@ -5,7 +5,7 @@
   <div>
     <h5 align="center"> Data Science Analyst</h5>
     <a href="https://www.uninove.br/">
-    <img align="right" height="180em" width="150px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
+    <img align="left" height="180em" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
   </div>
 </body>
 

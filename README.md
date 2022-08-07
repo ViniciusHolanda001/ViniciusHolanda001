@@ -2,14 +2,13 @@
 <h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
 <h5 align="center"> Data Science Analyst</h5>
 
-
-<a href="https://github.com/viniciusholanda001">
-<img align="right" height="180em" width="30px" alt="I'm currently working at Nove de Julho University" src="https://www.uninove.br/logo-uninove.svg"/>
-
-
 # @ViniciusHolanda001
 
-I'm a research assistant at Nove de Julho University - UNINOVE
+<a href="https://www.uninove.br/">
+<img align="right" height="180em" width="150px" alt="" src="https://www.uninove.br/logo-uninove.svg"/>
+
+I'm currently working at Nove de Julho University - UNINOVE
+
 São Paulo - Brazil
 
 I’m currently learning Python, Machine Learning and Data Science.

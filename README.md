@@ -5,14 +5,12 @@
   <div>
     <h5 align="center"> Data Science Analyst</h5>
     <a href="https://www.uninove.br/">
-    <img align="left" height="180em" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
+    <img align="right" height="180em" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
   </div>
 </body>
 
 
-# @ViniciusHolanda001
 I'm currently working at Nove de Julho University - UNINOVE
-
 
 
 # Vinicius Holanda Cavalcante

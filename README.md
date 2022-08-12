@@ -6,7 +6,6 @@
   <p> I'm currently working at Nove de Julho University - UNINOVE </p>
 </br>
 
-
 <h2 align="center"> Data Science Analyst and Python developer.</h2>
 
 <div align="center">

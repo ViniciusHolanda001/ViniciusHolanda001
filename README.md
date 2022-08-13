@@ -1,4 +1,3 @@
-
 <h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
 
 <br>
@@ -12,4 +11,3 @@
   <a href="https://github.com/viniciusholanda001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusholanda001&show_icons=true&theme=dark&count_private=true"/>
 </div>
-

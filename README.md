@@ -1,11 +1,10 @@
 <h2 align="center">  Hi, I’m Vinicius Holanda Cavalcante </h2>
 
 <br>
-  <img align="right" width="120px" alt="Uninove" src="https://www.uninove.br/logo-uninove.svg"/>
-  <p> I'm currently working at Nove de Julho University - UNINOVE </p>
+  <p> I'm currently working at ESPM</p>
 </br>
 
-<h2 align="center"> Data Science Analyst and Python developer.</h2>
+<h2 align="center"> Senior Data Scientist and Python developer.</h2>
 
 <div align="center">
   <a href="https://github.com/viniciusholanda001">
